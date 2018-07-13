@@ -8,6 +8,9 @@
 #Gradle temporary files
 target/
 
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
 #IntelliJ files
 **/*.iml
 **/.idea
